@@ -7,7 +7,7 @@ Custom Mihon / Tachiyomi extension repository for the Korean **NTK** source.
 In the app, go to **More → Settings → Browse → Extension repos → Add**, paste:
 
 ```
-https://<your-github-username>.github.io/tachiyomi-extensions-ntk/index.min.json
+https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/index.min.json
 ```
 
 Then open **Browse → Extensions** and install **NTK**.

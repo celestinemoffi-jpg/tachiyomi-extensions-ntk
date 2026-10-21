@@ -3,7 +3,7 @@
   "badgeLabel": "NTK",
   "signingKey": "9236870b3db9041df34b2693d34551d4d0735c5dabcc02b9d998717396513806",
   "contact": {
-    "website": "https://kijonggong.github.io/tachiyomi-extensions-ntk"
+    "website": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk"
   },
   "extensionList": {
     "extensions": [
@@ -11,9 +11,9 @@
         "name": "NTK",
         "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
         "resources": {
-          "apkUrl": "https://kijonggong.github.io/tachiyomi-extensions-ntk/apk/tachiyomi-ko.ntk-v1.6.42.apk",
-          "iconUrl": "https://kijonggong.github.io/tachiyomi-extensions-ntk/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
-          "jarUrl": "https://kijonggong.github.io/tachiyomi-extensions-ntk/jar/tachiyomi-ko.ntk-v1.6.42.jar"
+          "apkUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/apk/tachiyomi-ko.ntk-v1.6.42.apk",
+          "iconUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
+          "jarUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/jar/tachiyomi-ko.ntk-v1.6.42.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106042",
