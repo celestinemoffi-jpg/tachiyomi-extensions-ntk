@@ -11,13 +11,13 @@
         "name": "NTK",
         "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
         "resources": {
-          "apkUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/apk/tachiyomi-ko.ntk-v1.6.42.apk",
+          "apkUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/apk/tachiyomi-ko.ntk-v1.6.43.apk",
           "iconUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/icon/eu.kanade.tachiyomi.extension.ko.ntk.png",
-          "jarUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/jar/tachiyomi-ko.ntk-v1.6.42.jar"
+          "jarUrl": "https://celestinemoffi-jpg.github.io/tachiyomi-extensions-ntk/jar/tachiyomi-ko.ntk-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
