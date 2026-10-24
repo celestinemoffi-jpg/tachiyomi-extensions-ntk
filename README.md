@@ -2,7 +2,6 @@
 
 Custom Mihon / Tachiyomi extension repository for the Korean **NTK** (newtoki) source.
 
-- Extension source: [`source` branch → `src/ko/ntk`](https://github.com/celestinemoffi-jpg/tachiyomi-extensions-ntk/tree/source/src/ko/ntk)
 - Current version: **v1.6.43**
 
 ## Add to Mihon / Tachiyomi
